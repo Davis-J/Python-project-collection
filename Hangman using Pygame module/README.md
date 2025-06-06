@@ -1,5 +1,3 @@
-## 📝 'Hangman using Pygame module'
-
 # Hangman Game (Pygame)
 
 This is a graphical implementation of the classic **Hangman** game using the `pygame` library. The player guesses letters to reveal a hidden word before the hangman is fully drawn.
